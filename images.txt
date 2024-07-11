@@ -6,3 +6,12 @@ ghcr.io/open-webui/open-webui:main
 yidadaa/chatgpt-next-web:v2.12.3
 ollama/ollama:0.1.43
 1panel/maxkb:v1.2.0
+# mall poc
+1panel/openresty:1.21.4.3-3-3-focal
+jenkins/jenkins:2.452.3-lts
+mysql:8.2.0
+redis:7.2.5
+gitea.cn/gitea/gitea:1.21.11
+elasticsearch:8.14.2
+rabbitmq:3.13.4-management-alpine
+rustdesk/rustdesk-server-s6:latest
