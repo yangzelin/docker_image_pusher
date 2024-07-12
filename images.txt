@@ -1,11 +1,11 @@
-nginx
+#nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # AIGC 
-ghcr.io/open-webui/open-webui:main
-yidadaa/chatgpt-next-web:v2.12.3
-ollama/ollama:0.1.43
-1panel/maxkb:v1.2.0
+#ghcr.io/open-webui/open-webui:main
+#yidadaa/chatgpt-next-web:v2.12.3
+#ollama/ollama:0.1.43
+#1panel/maxkb:v1.2.0
 # mall poc
 1panel/openresty:1.21.4.3-3-3-focal
 jenkins/jenkins:2.452.3-lts
