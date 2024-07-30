@@ -17,5 +17,5 @@
 #rustdesk/rustdesk-server-s6:latest
 # k8s NFS
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-
-busybox:stable
+#busybox:stable
+eipwork/kuboard:v3.5.2.7
