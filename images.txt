@@ -26,5 +26,6 @@
 #mysql:5.7.42
 prom/prometheus:main
 prom/mysqld-exporter:main
+prom/node-exporter:master
 grafana/grafana-enterprise:main
 bitnami/redis-exporter:1.62.0
