@@ -15,7 +15,7 @@
 #elasticsearch:8.14.2
 #rabbitmq:3.13.4-management-alpine
 #rustdesk/rustdesk-server-s6:latest
-# k8s NFS
+############  k8s NFS  ############ 
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #busybox:stable
 #eipwork/kuboard:v3.5.2.7
@@ -24,8 +24,12 @@
 #docker:20.10.23-dind
 #registry:2.8.3
 #mysql:5.7.42
-prom/prometheus:main
-prom/mysqld-exporter:main
-prom/node-exporter:master
-grafana/grafana-enterprise:main
-bitnami/redis-exporter:1.62.0
+############  k8s NFS  ############ 
+####### prometheus monitor ####
+#prom/prometheus:main
+#prom/mysqld-exporter:main
+#prom/node-exporter:master
+#grafana/grafana-enterprise:main
+#bitnami/redis-exporter:1.62.0
+####### prometheus monitor ####
+zerotier/zerotier:1.14.0
