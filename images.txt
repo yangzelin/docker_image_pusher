@@ -50,6 +50,14 @@ registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
 #gcr.io/k8s-staging-sig-storage/smbplugin:canary
 #registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.13.0
 
+## cis-smb v1.9.1
+registry.k8s.io/sig-storage/smbplugin:v1.19.1
+registry.k8s.io/sig-storage/csi-provisioner:v5.3.0
+registry.k8s.io/sig-storage/csi-resizer:v1.14.0
+registry.k8s.io/sig-storage/livenessprobe:v2.17.0
+registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.15.0
+ghcr.io/kubernetes-sigs/sig-windows/csi-proxy:v1.1.2
+
 
 ## postgresql mongodb driver
-ghcr.io/ferretdb/ferretdb:latest
+#ghcr.io/ferretdb/ferretdb:latest
